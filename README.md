@@ -1,6 +1,6 @@
 # WanderTrails - Modern Travel Booking Website
 
-Welcome to **WanderTrails**, a full-stack travel booking application built using React, Node.js (Express), and MongoDB. This app provides a sleek, modern UI/UX for users to login, explore, book travel packages, manage bookings, make payment, submit reviews and inquiry form around the world.
+Welcome to **WanderTrails**, a full-stack travel booking application built using EF Core- Code First, Asp .NET Core Web API, MS SQL Server, React. This app provides a sleek, modern UI/UX for users to login, explore, book travel packages, manage bookings, make payment, submit reviews and inquiry form around the world.
 
 ![Demo Screenshot](https://your-screenshot-link.com/landing-page.png) <!-- Optional screenshot -->
 
