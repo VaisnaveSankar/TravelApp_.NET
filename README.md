@@ -6,29 +6,21 @@ Welcome to **WanderTrails**, a full-stack travel booking application built using
 
 ---
 
-## 🌍 Live Demo
-
-🖥️ [Frontend on Vercel](https://travel-explorer.vercel.app)  
-🔧 [Backend on Render](https://travel-api.onrender.com)
-
----
-
 ## 🔧 Tech Stack
 
 ### 👨‍💻 Frontend
-- React.js (with Next.js)
-- Tailwind CSS
+- React.js
+- CSS and Bootstrap
 - Axios
-- Framer Motion for animations
 
 ### 🔙 Backend
-- Node.js + Express
-- MongoDB (MongoDB Client)
-- JWT Authentication + Google Sign-In
+- ASP .NET Core Web App
+- SQL Server
+- JWT Authentication
 
 ### 🔧 Tools
-- Git, GitHub, Render, Vercel
-- Visual Studio Code
+- Git, GitHub,
+- Visual Studio, / SQL Server Management Studio
 
 ---
 
@@ -37,9 +29,8 @@ Welcome to **WanderTrails**, a full-stack travel booking application built using
 - 🔐 User Signup / Login with JWT and Google Auth
 - 📦 View Tour Packages (Indian, Canadian, International)
 - 🔍 Search & Filter Packages by budget, destination, duration
-- ❤️ Wishlist / Save Packages to Collections
 - 📅 Itinerary View with Day-wise Schedule
-- 📨 Enquiry Popup with Confirmation Message
+- 📨 Inquiry Popup with Confirmation Message
 - 📱 Fully Responsive & Smooth UX
 
 ---
@@ -47,8 +38,8 @@ Welcome to **WanderTrails**, a full-stack travel booking application built using
 ## 📦 Installation
 
 ### Prerequisites
-- Node.js and npm installed
-- MongoDB local or Atlas setup
+- .Net and NuGet packages installed
+- SQL Server setup
 
 ### 1. Clone the repository
 
